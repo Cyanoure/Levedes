@@ -1,0 +1,5 @@
+name: Levedes
+version: @version@
+main: ga.cyanoure.levedes.Levedes
+api-version: 1.16
+depend: [WorldGuard, Vault]
